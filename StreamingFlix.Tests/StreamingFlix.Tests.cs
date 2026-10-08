@@ -21,6 +21,8 @@ namespace StreamingFlix.Tests
         [InlineData(4, "PREMIUM")]
         public void ObterClassificacaoPorQualidade_DeveRetornarClassificacaoCorreta(int telas, string resultadoEsperado)
         {
+
+            
             // Act
             var resultado = _service.ObterClassificacaoPorQualidade(telas);
 
