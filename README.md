@@ -1,4 +1,4 @@
-# Streaming Flix
+# Streaming Flix - Git
 
 ## Visão Geral da Aplicação
 O **Streaming Flix** é uma aplicação desenvolvida no âmbito da disciplina de Garantia da Qualidade de Software[cite: 1]. O sistema simula as regras de negócio do *backend* de uma plataforma de *streaming*, sendo responsável por classificar os planos de subscrição consoante o número de ecrãs, calcular descontos de mensalidade baseados no tempo de fidelização e validar o acesso a conteúdos adultos através da verificação de idade e das definições de controlo parental[cite: 4].
